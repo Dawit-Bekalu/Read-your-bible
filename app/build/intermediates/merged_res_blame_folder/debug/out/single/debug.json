@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.2/com.readbible.app-merged_res-28:/drawable_ic_launcher.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.2/com.readbible.app-main-30:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.readbible.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.readbible.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.2/com.readbible.app-merged_res-28:/drawable_ic_launcher.jpg.flat",
+        "source": "/home/codespace/.gradle/daemon/8.2/com.readbible.app-main-30:/drawable/ic_launcher.jpg"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/8.2/com.readbible.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/8.2/com.readbible.app-main-30:/layout/activity_main.xml"
+    }
+]
